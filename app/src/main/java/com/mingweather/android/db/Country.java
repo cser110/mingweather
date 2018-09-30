@@ -1,6 +1,6 @@
 package com.mingweather.android.db;
 
-import DataSupport;
+import org.litepal.crud.DataSupport;
 
 /**
  * Created by Administrator on 2018/9/17.

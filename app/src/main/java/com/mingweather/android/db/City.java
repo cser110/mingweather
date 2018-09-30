@@ -1,7 +1,6 @@
 package com.mingweather.android.db;
 
-import DataSupport;
-
+import org.litepal.crud.DataSupport;
 /**
  * Created by Administrator on 2018/9/17.
  */
@@ -43,4 +42,5 @@ public class City extends DataSupport {
     public void setProvinceId(int provinceId) {
         this.provinceId = provinceId;
     }
+
 }

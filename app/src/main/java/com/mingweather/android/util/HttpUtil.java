@@ -1,6 +1,7 @@
 package com.mingweather.android.util;
 
 import okhttp3.OkHttpClient;
+import okhttp3.Request;
 
 /**
  * Created by Administrator on 2018/9/17.
